@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/johns-creek-tree-service/tcsr-johnscreekgh-treecuttin-t1-p00-n01-local/sitemap.xml
